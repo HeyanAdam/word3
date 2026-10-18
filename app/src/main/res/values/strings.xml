@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">何彦鋆 2024080613</string>
+    <string name="hint_main_input">请输入内容</string>
+    <string name="btn_pass_param">传递参数</string>
+    <string name="btn_return_param">回传参数</string>
+    <string name="btn_take_photo">拍照</string>
+    <string name="btn_timer">计时器</string>
+    <string name="photo_preview">拍照预览</string>
+    <string name="display_param_title">接收到的参数</string>
+    <string name="display_param_empty">（未传入内容）</string>
+    <string name="hint_return_input">请输入要回传的内容</string>
+    <string name="btn_confirm_return">确认回传</string>
+    <string name="btn_start_timer">开始计时</string>
+    <string name="camera_error">无法启动系统相机</string>
+</resources>
